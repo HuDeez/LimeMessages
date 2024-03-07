@@ -1,0 +1,16 @@
+notifications:
+  # Chat Notifications
+  chat:
+    # On / Off chat notifications
+    enable: true
+
+    # Messages interval
+    time: 60
+
+    # List of messages
+    messages:
+      - "This server using a LimeMessages!"
+      - "Our website: https://example.com"
+
+    permission: false
+

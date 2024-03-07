@@ -1,0 +1,7 @@
+name: LimeMessages
+version: '${project.version}'
+main: me.hudeez.limemessages.LimeMessages
+api-version: '1.17'
+commands:
+  limemessages:
+    description: Manage plugin
