@@ -13,9 +13,11 @@ import java.io.File;
 
 
 public final class LimeMessages extends JavaPlugin {
+    
     private CommandManager commandManager;
     private FileManager fileManager;
     private SchedulerMessage schedulerMessage;
+    
     @Override
     public void onEnable() {
         this.saveDefaultConfig();
